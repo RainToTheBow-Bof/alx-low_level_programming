@@ -1,7 +1,7 @@
 /**
  * main - starting point
  *
- * Return - return 0 when successful
+ * Return:  return 0 when successful
 */
 #include <stdio.h>
 
